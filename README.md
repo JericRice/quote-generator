@@ -1,1 +1,1 @@
-# joke-teller
+# quote-generator
